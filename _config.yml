@@ -2,63 +2,41 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: FeRAM Company
+email: feramcompany@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Mayank Goyal
   pic: 1
-  position: Lead Designer
+  position: Founder and Designer
   social:
     - title: twitter
-      url: #
+      url: twitter.com/imtrinity94
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: facebook.com/imtrinity94
+    - title: instagram
+      url: instagram.com/imtrinity94
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/FeramCompany
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/feram.company
+  - title: instagram
+    url: https://www.linkedin.com/company/feramcompany
+  - title: youtube 
+    url: https://www.youtube.com/channel/UCivJG4LbBNanF24fvzdS_gA
+  - title: linkedin
+    url: https://www.linkedin.com/company/feramcompany
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: FeRAM Company, Adarsh Colony
+  - line: Dadri,GB Nagar, Uttar Pradesh 203207
 
 # Build settings
 markdown: kramdown
